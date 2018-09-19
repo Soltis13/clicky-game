@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "image": "../public/chariamges/Bugs.PNG",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "",
+      "clicked": false
+    }
+    
+]

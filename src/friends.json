@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image": "https://github.com/Soltis13/clicky-game/blob/master/public/charimages/Bugs.png",
+      "image": "https://raw.githubusercontent.com/Soltis13/clicky-game/master/public/charimages/Bugs.png",
       "clicked": false
     },
     {
